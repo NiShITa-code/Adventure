@@ -1,6 +1,6 @@
-# adventure
+# Adventure Game
 
-A new Flutter project.
+A new Flutter And Flame Game
 
 ## Getting Started
 
